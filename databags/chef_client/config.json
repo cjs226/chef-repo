@@ -1,0 +1,12 @@
+{
+  "id":       "config",
+  "interval": {
+    "_default":   "300",
+    "production": "1800"
+  },
+  "log_file": "/var/log/chef/client.log",
+  "splay": {
+    "_default":   "10",
+    "production": "300"
+  }
+}

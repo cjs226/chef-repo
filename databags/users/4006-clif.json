@@ -1,0 +1,9 @@
+{
+  "id":       "clif",
+  "comment":  "Clif Smith",
+  "uid":      4006,
+  "groups":   ["sysadmin"],
+  "shell":    "/bin/bash",
+  "openid":   "",
+  "ssh_keys": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDB5DS56QdGRJDw9a3Ieyl6cnpDo7CVh+KrH6aw5/08wojqORwSb41qbrrj6O2mkiRGod+YffiwLIN3hmnk5SsCQcQF3ZOwCDuIpPsXKP7kvU/dLfFZkq+gBbcRPOQ54Bofg9vjsi6suYzoo2Z8MDSZbij4HcfxV3TjsgYMJzgA51bv649wfydtk/aSimK8xzusMw1jPM1Se7mJjnxhBaq0Now+fzdh0UNwbL99B/lFhu9wlWppLX5Dvdt+898mJtoaO/uSRq4S6BEDYLQciUXMl/8bINjWtd1Uro5564v7cLxsq1IJrHB6VtZGFJR8Tq2tykp20EL6gmOO8RBU6B0V clif.smith@seejayes.local"
+}
