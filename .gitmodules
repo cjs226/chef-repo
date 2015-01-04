@@ -1,0 +1,9 @@
+[submodule "cookbooks/loggly-rsyslog"]
+	path = cookbooks/loggly-rsyslog
+	url = https://cjs226@github.com/mveitas/loggly-rsyslog
+[submodule "cookbooks/openssh"]
+	path = cookbooks/openssh
+	url = https://github.com/opscode-cookbooks/openssh
+[submodule "cookbooks/iptables"]
+	path = cookbooks/iptables
+	url = https://github.com/opscode-cookbooks/iptables
