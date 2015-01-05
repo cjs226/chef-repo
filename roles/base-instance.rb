@@ -4,9 +4,9 @@ description "Base Instance"
 
 run_list(
   "recipe[apt]",
-  "recipe[rsyslog]",
+  "recipe[route53-wrap]",
+  "recipe[rsyslog-wrap]",
   "recipe[loggly-rsyslog-wrap]",
-  "recipe[base-instance::dns]",
   "recipe[chef-client-wrap]",
   "recipe[openssh]",
   "recipe[users]",
