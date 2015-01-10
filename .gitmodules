@@ -7,3 +7,6 @@
 [submodule "cookbooks/iptables"]
 	path = cookbooks/iptables
 	url = https://github.com/opscode-cookbooks/iptables
+[submodule "cookbooks/squid"]
+	path = cookbooks/squid
+	url = https://github.com/opscode-cookbooks/squid
